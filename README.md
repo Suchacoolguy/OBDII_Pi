@@ -2,4 +2,4 @@
 OBDII Scan for car maintenance with Raspberry Pi.
 
 
-## README under construction... ##
+## README is under construction... ##
